@@ -6,3 +6,8 @@ Original data available at: http://realec.org, see Vinogradova 2016, Vinogradova
 ## Contributors
 Olga Lyashevskaya, Irina Panteleeva
 
+## Папки
+accuracy - файлы с результатами работы модели
+programs - файлы с кодами, которые считают синтаксические критерии в эссе
+graphs - графики с описательной статистикой по критериям
+grades - первичные оценки эссе
